@@ -79,16 +79,16 @@
 
 #### Featured Projects
 <p align="center">
-  <a href="https://github.com/krig6/odin-shopping-cart">
+  <a href="https://github.com/ekodesjuliet/odin-shopping-cart">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=krig6&repo=odin-shopping-cart&border_color=504945&bg_color=282828&title_color=EBDBB2&text_color=BDAE93&icon_color=D79921"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ekodesjuliet&repo=odin-shopping-cart&border_color=504945&bg_color=282828&title_color=EBDBB2&text_color=BDAE93&icon_color=D79921"
     />
   </a>
-  <a href="https://github.com/krig6/odin-memory-card">
+  <a href="https://github.com/ekodesjuliet/odin-memory-card">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=krig6&repo=odin-memory-card&border_color=504945&bg_color=282828&title_color=EBDBB2&text_color=BDAE93&icon_color=D79921"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ekodesjuliet&repo=odin-memory-card&border_color=504945&bg_color=282828&title_color=EBDBB2&text_color=BDAE93&icon_color=D79921"
     />
   </a>
 </p>
